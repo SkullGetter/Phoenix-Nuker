@@ -1,0 +1,37 @@
+╔═╗┬ ┬┌─┐┌─┐┌┐┌┬─┐ ┬  ╔╗╔┬ ┬┬┌─┌─┐┬─┐
+╠═╝├─┤│ │├┤ ││││┌┴┬┘  ║║║│ │├┴┐├┤ ├┬┘
+╩  ┴ ┴└─┘└─┘┘└┘┴┴ └─  ╝╚╝└─┘┴ ┴└─┘┴└─
+            ╔═╗┌─┐┌┬┐┬ ┬┌─┐          
+            ╚═╗├┤  │ │ │├─┘          
+            ╚═╝└─┘ ┴ └─┘┴                                                        
+                                                                                                                                                   
+
+IF YOU NEED HELP USING OR LEARNING ABOUT HOW THIS PROGRAM WORKS AND THE PYTHON PACKAGES IT USES 
+PLEASE DO THE FOLLOWING:
+
+PYTHON INSTALL:
+
+I recommend Python 3.9 or Python 3.10
+You can get Python through your Microsoft Store
+Or you can get it from the official Python website 
+https://www.python.org/
+
+RUN CMD:
+
+pip install -r packages.txt  
+
+HOW TO USE NUKER:
+
+ENTER GIVEN
+USERNAME AND PASSWORD
+ENTER BOT DETAILS
+ENJOY NUKING SERVERS!                                                                                                             
+
+
+OWNER/DEV:
+
+--- SkullGetter ---
+
+Instagram - @skullgetterv2
+Telegram - @SkullGetter
+Discord - skull.2200 / Backup: skullgetter
